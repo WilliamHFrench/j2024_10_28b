@@ -1,2 +1,6 @@
-/mvnw text eol=lf
+# Set line endings for shell scripts (LF) and maven wrapper (mvnw)
+mvnw text eol=lf
+*.sh text eol=lf
+
+# Set line endings for Windows batch files (CRLF)
 *.cmd text eol=crlf
